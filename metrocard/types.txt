@@ -1,0 +1,35 @@
+M:0:Standard
+M:4:Student
+M:29:AIRTRAIN
+0:5:Student-2Trips
+0:0:FULL FARE
+0:10:PRE-VALUED
+0:12:PRE-VALUED ($10.00)
+0:13:PRE-VALUED ($2.00)
+0:14:LIRR PRE-VALUED
+0:16:PRE-VALUED (?)
+0:19:PRE-VALUED ($4.00)
+0:23:1-DAY UNLIMITED ($2.00 fare)
+0:24:7-DAY UNLIMITED ($2.00 fare)
+0:25:7-day Express Bus Unlimited ($4.00 fare)
+0:26:30-DAY UNLIMITED ($2.00 fare)
+0:27:30-DAY UNLIMITED ($2.75 fare)
+0:84:MR EASYPAY UNLIMITED
+0:20:MR EASYPAY UNLIMITED
+0:29:AIRTRAIN
+0:30:7-DAY RFM UNLIMITED ($2.00 fare)
+0:42:Transit-Replacement Card
+0:43:TransitChek
+0:46:TransitChek
+0:47:TransitChek
+0:48:TransitChek 30-DAY UNLIMITED
+0:56:1-DAY UNLIMITED ($1.50 fare)
+0:57:7-DAY UNLIMITED ($1.50 fare)
+0:59:30-DAY UNLIMITED ($1.50 fare)
+0:62:SingleRide ($1.50 fare)
+0:63:Not-yet-used (Ready for sale)
+0:87:SingleRide ($3.00 fare)
+4:2:Two-Trip Special Program Pass
+4:5:Grades 7-12
+4:13:1/2 Fare - Grades K-12
+4:29:AIRTRAIN

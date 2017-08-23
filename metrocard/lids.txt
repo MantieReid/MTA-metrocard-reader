@@ -1,0 +1,15 @@
+0:Brand New Never Used 
+1513:14th St/Union Sq
+1519:8th St/Broadway (A39)
+1880:Lexington Ave (N601)
+1942:ASTOR PLACE (R219)
+2157:34th St/6th Ave (N506)
+2139:Fulton Street(N095)
+2204:42nd St/Grand Central
+2278:9th Street PATH
+2159:SUTPHIN-ARCHER (N605)
+2124:42nd St PABT
+2225:FLUSHING-MAIN (R534)
+2272:Jamaica Airtrain 
+28672:Jamaica Airtrain
+1790:STEINWAY (N315)
