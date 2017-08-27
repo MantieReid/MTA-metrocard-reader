@@ -19,7 +19,6 @@ Finally, make sure pyaudio is installed.
 ### Reading a card
 
 Open a terminal and go to the directory of metrocard-reader.sh
-Make sure the card reader audio recording is working. 
 
 run "bash metrocard-reader.sh"
 
