@@ -22,5 +22,4 @@ Open a terminal and go to the directory of metrocard-reader.sh
 
 run "bash metrocard-reader.sh"
 
-[INSERT GIF HERE OF SHOWING THE SCRIPT RUNNING"]
-
+![Alt Text](https://github.com/MantieReid/MTA-metrocard-reader/blob/master/gif.gif)
