@@ -10,7 +10,7 @@ You need a card reader/writer that is able to read tracks 1, 2, and 3.  A good e
 
 <a href="https://www.amazon.com/Misiri-MSR705X-Magnetic-Reader-Encoder/dp/B06X91X37T">Card Reader</a>
 
-<a href="https://www.amazon.com/AmazonBasics-3-5mm-Stereo-Audio-Cable/dp/B00NO73MUQ/ref=sr_1_5?ie=UTF8&qid=1503807307&sr=8-5&keywords=3.5mm+audio+cableT"></a>
+<a href="https://www.amazon.com/AmazonBasics-3-5mm-Stereo-Audio-Cable/dp/B00NO73MUQ/ref=sr_1_5?ie=UTF8&qid=1503807307&sr=8-5&keywords=3.5mm+audio+cableT">3.5mm audio cable</a> 
 
 [INSERT VIDEO LINK OF showing how to attach a 3.5mm audio cable to a card reader, specifically the msr705x. 
 
