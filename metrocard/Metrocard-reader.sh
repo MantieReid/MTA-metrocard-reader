@@ -48,9 +48,9 @@ echo ""
 echo ""
 echo ""
 read -n 1 -s -p "Press any key to Read..."
-ECHO ""
-python /Users/wulinxin/Desktop/metrocard/rcd.py
-python /Users/wulinxin/Desktop/metrocard/dab.py /Users/wulinxin/Desktop/metrocard/metrocard.wav
-python /Users/wulinxin/Desktop/metrocard/dab.py /Users/wulinxin/Desktop/metrocard/metrocard.wav | perl /Users/wulinxin/Desktop/metrocard/mcdecode.pl
+echo ""
+python rcd.py
+python dab.py metrocard.wav
+python dab.py metrocard.wav | perl mcdecode.pl
 read -n 1 -s -p "Press any key to Rread next card..."
 done
