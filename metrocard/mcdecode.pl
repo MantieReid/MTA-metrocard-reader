@@ -29,8 +29,8 @@
 
 $card_type = 0; #FIXME: this should be set by track 3, but since I only have
  # a single-track reader...
-$typesfile = '/Users/wulinxin/Desktop/metrocard/types.txt';
-$lidfile = '/Users/wulinxin/Desktop/metrocard/lids.txt';
+$typesfile = 'types.txt';
+$lidfile = 'lids.txt';
 # track 1-2 field names
 @T12_FIELDS = (
  'Time', 'Sub-Type', 'Time', 'Date',
