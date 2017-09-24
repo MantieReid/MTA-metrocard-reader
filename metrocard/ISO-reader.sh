@@ -48,8 +48,8 @@ echo ""
 echo ""
 read -n 1 -s -p "Press any key to Read..."
 ECHO ""
-python /Users/wulinxin/Desktop/metrocard/rcd.py
-python /Users/wulinxin/Desktop/metrocard/dab.py /Users/wulinxin/Desktop/metrocard/metrocard.wav
-python /Users/wulinxin/Desktop/metrocard/dab.py /Users/wulinxin/Desktop/metrocard/metrocard.wav | python /Users/wulinxin/Desktop/metrocard/dmsb.py dmsb
-read -n 1 -s -p "Press any key to Rread next card..."
+python rcd.py
+python dab.py metrocard.wav
+python dab.py metrocard.wav | python dmsb.py dmsb
+read -n 1 -s -p "Press any key to read next card..."
 done
