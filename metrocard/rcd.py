@@ -6,7 +6,7 @@ CHANNELS = 1
 RATE = 44100
 CHUNK = 1024
 RECORD_SECONDS = 3
-WAVE_OUTPUT_FILENAME = "/Users/wulinxin/Desktop/metrocard/metrocard.wav"
+WAVE_OUTPUT_FILENAME = "metrocard.wav"
 
 audio = pyaudio.PyAudio()
 
