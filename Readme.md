@@ -6,7 +6,7 @@ This program allows a person to read a New York MTA metro card. The program was 
 ### Requirements 
 
 For Now, this program only runs on mac and Linux systems that natively come built in with python. 
-You need a card reader/writer that is able to read tracks 1, 2, and 3.  A good example of this would be the misiri MS705x or a similar card reader.  Finally, solder the 3.5 mm audio cable (2 way connector) to the motherboard of the card reader.
+You need a card reader/writer that is able to read tracks 1, 2, and 3.  A good example of this would be the misiri MS705x or a similar card reader.  Finally, solder the 3.5 mm audio cable (2 way connector) to the motherboard of the card reader. The cable has been attached to the read of the card reader. 
 
 <a href="https://www.amazon.com/Misiri-HiCo-Magnetic-Reader-Writer/dp/B01EA61PXK">Card Reader</a>
 
