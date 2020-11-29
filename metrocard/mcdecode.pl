@@ -18,8 +18,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 #
-# Linxin 2017
-# wulinxin304115735@gmail.com
+
 #
 # Notes on input:
 # A line that begins with a '#' is not processed and not printed
