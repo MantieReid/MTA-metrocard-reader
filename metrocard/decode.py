@@ -1,6 +1,6 @@
 #!/usr/bin/python
-# Linxin 2017
-# wulinxin304115735@gmail.com
+
+
 # decodes 66 bit remote keyless entry signal
 # pulse width modulation
 # to be used with grc/usrp demodulator
