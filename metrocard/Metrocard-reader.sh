@@ -2,8 +2,8 @@
 #
 # Decode MTA MetroCard Raw And Parsed Data
 # Version 1.1
-# Written in 2017 by Linxin <.>
-# wulinxin304115735@gmail.com
+
+
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
